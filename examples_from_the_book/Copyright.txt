@@ -1,0 +1,39 @@
+Copyright (c) 2000, Bruce Eckel
+Kod zrodlowy pochodzacy z ksiazki "Thinking in C++"
+Wszelkie prawa zastrzezone, Z WYJATKIEM dozwolonych ponizej: 
+Niniejszy plik moze byæ bezplatnie wykorzystywany do wlasnych 
+celow (osobistych lub komercyjnych), wlaczajac w to modyfikacje 
+oraz dystrybucje wylacznie w postaci wykonywalnej. Udzielane 
+jest pozwolenie na uzywanie tego pliku podczas zajeæ dydaktycznych, 
+wlaczajac w to uzycie go w materialach prezentacyjnych, pod 
+warunkiem wymienienia ksiazki "Thinking in C++" jako zrodla jego 
+pochodzenia. Poza zastosowaniami dydaktycznymi, nie mozna kopiowaæ 
+ani rozpowszechniaæ niniejszego kodu. Wylacznym miejscem dystrybucji 
+jest witryna http://www.BruceEckel.com (i jej oficjalne witryny 
+lustrzane), w ktorej jest on dostepny bezplatnie. Nie mozna usuwaæ 
+zastrzezenia prawa autorskiego ani niniejszej informacji. Nie wolno 
+rozpowszechniaæ zmodyfikowanej wersji kodu zrodlowego, zawartego 
+w niniejszym pakiecie. Nie wolno publikowaæ niniejszego pliku drukiem, 
+bez wyraznej zgody autora. Bruce Eckel nie bierze odpowiedzialnosci 
+za to, ze niniejsze oprogramowanie bedzie przydatne do jakiegokolwiek 
+zastosowania. Oprogramowanie jest dostarczane "takie, jakie jest", 
+bez bezposredniej ani posredniej gwarancji jakiegokolwiek rodzaju, 
+wlaczajac w to gwarancje przydatnosci handlowej, przydatnosci do 
+konkretnego zastosowania oraz nie naruszania prawa. Calkowite ryzyko 
+zwiazane z jakoscia i wydajnoscia oprogramowania ponosi jego 
+uzytkownik. Bruce Eckel oraz wydawca nie ponosza odpowiedzialnosci 
+za jakiekolwiek zniszczenia wywolane u uzytkownika ani u jakiejkolwiek 
+strony trzeciej w wyniku uzywania lub dystrybucji niniejszego 
+oprogramowania. W zadnym wypadku Bruce Eckel ani wydawca nie ponosza 
+odpowiedzialnosci za jakiekolwiek utracone przychody, zyski lub dane, 
+a takze bezposrednie, posrednie, szczegolne, wynikowe, przypadkowe, 
+lub wynikajace z naruszenia prawa uszkodzenia, wywolane w jakikolwiek 
+sposob, niezaleznie od teorii odpowiedzialnosci wynikajacej z uzywania 
+lub niemoznosci uzywania oprogramowania, nawet jezeli Bruce Eckel 
+oraz wydawca zostali powiadomieni o mozliwosci wystapienia takich 
+uszkodzen. W przypadku ujawnienia bledow zawartych w oprogramowaniu, 
+nalezy wziaæ pod uwage poniesienie kosztow niezbednego serwisu, jego 
+naprawy lub korekty. Kazdy, kto uwaza, ze znalazl blad, proszony 
+jest o jego zgloszenie za pomoca formularza dostepnego na stronie 
+www.BruceEckel.com (tego samego formularza nalezy uzyæ do zgloszenia 
+bledow niezwiazanych z kodem). 
